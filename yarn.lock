@@ -2698,7 +2698,7 @@ flatted@^3.2.9:
   resolved "https://registry.npmjs.org/flatted/-/flatted-3.3.2.tgz"
   integrity sha512-AiwGJM8YcNOaobumgtng+6NHuOqC3A7MixFeDafM3X9cIUM+xUXoS5Vfgf+OihAYe20fxqNM9yPBXJzRtZ/4eA==
 
-"fontkit@github:omochi/fontkit#slim-v2.0.x":
+"fontkit@https://github.com/omochi/fontkit.git#slim-v2.0.x":
   version "2.0.4"
   resolved "git+ssh://git@github.com/omochi/fontkit.git#e98cdb8730c022eafce78a0051672e989934ff30"
   dependencies:
@@ -4291,7 +4291,7 @@ pkg-dir@^4.1.0, pkg-dir@^4.2.0:
   dependencies:
     find-up "^4.0.0"
 
-"png-js@github:and3k5/png.js#fix-deprecated-buffer-ctor":
+"png-js@https://github.com/and3k5/png.js.git#fix-deprecated-buffer-ctor":
   version "1.0.0"
   resolved "git+ssh://git@github.com/and3k5/png.js.git#1ad12db80d4c11631fe7cbf9e462d60f0529430c"
 

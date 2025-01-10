@@ -49,10 +49,10 @@
   },
   "dependencies": {
     "crypto-js": "^4.2.0",
-    "fontkit": "github:omochi/fontkit#slim-v2.0.x",
+    "fontkit": "https://github.com/omochi/fontkit.git#slim-v2.0.x",
     "jpeg-exif": "^1.1.4",
     "linebreak": "^1.1.0",
-    "png-js": "github:and3k5/png.js#fix-deprecated-buffer-ctor"
+    "png-js": "https://github.com/and3k5/png.js.git#fix-deprecated-buffer-ctor"
   },
   "scripts": {
     "prepublishOnly": "npm run build",
