@@ -2700,7 +2700,7 @@ flatted@^3.2.9:
 
 "fontkit@github:omochi/fontkit#slim-v2.0.x":
   version "2.0.4"
-  resolved "git+ssh://git@github.com/omochi/fontkit.git#2c0f5fab2e407260ccff5e27c137a8a1933bb581"
+  resolved "git+ssh://git@github.com/omochi/fontkit.git#e98cdb8730c022eafce78a0051672e989934ff30"
   dependencies:
     "@swc/helpers" "^0.5.13"
     clone "^2.1.2"
