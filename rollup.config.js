@@ -10,8 +10,6 @@ const external = [
   'events',
   'linebreak',
   'png-js',
-  'crypto-js',
-  'saslprep',
   'jpeg-exif'
 ];
 
