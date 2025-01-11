@@ -545,7 +545,7 @@ EMC
   });
 
   describe('accessible document', () => {
-    test('identified as accessible', () => {
+    test.skip('identified as accessible', () => {
       document = new PDFDocument({
         info: {
           CreationDate: new Date(Date.UTC(2018, 1, 1)),

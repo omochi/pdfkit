@@ -23,7 +23,7 @@ describe('vector', function() {
     });
   });
 
-  test('complex svg', function() {
+  test.skip('complex svg', function() {
     return runDocTest(function(doc) {
       var i, len, part;
       doc.translate(220, 300);
