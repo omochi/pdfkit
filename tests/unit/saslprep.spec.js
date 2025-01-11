@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 // import saslprep from '../../lib/saslprep';
 
 test = test.skip
